@@ -6,9 +6,9 @@ Highlights:
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
-- 👌 Global state management with Zustand
+- 👌 Global state management.
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
+- ⭐ At the end Deployment like a pro.
 - ⏳ And much more!
 
 ### Setup .env file
