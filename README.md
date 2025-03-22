@@ -6,7 +6,7 @@ Highlights:
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
-- 👌 Global state management.
+- 👌 Global state management with zustand.
 - 🐞 Error handling both on the server and on the client
 - ⭐ At the end Deployment like a pro.
 - ⏳ And much more!
